@@ -1,0 +1,29 @@
+h2{
+   color:white;
+}
+h3{
+   color:lime;
+}
+p{
+   color:white;
+}
+img{
+   border-radius: 50%;
+   padding-top: 5%;
+   border: 5%;
+}
+button{
+   padding:0px 35px;
+   background-color: gray;
+   border: 1px solid gray;
+   color:white;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: small;
+   font-weight: 700;
+   margin: 2% 35%;
+}
+div{
+   background-color: black;
+   height: 0%;
+}
+
